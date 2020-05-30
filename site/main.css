@@ -44,15 +44,15 @@ body {
 }
 
 .slide1 {
-    background-image: url('../Images/Image1.jpg');
+    background-image: url('images/Image1.jpg');
 }
 
 .slide2 {
-    background-image: url('../Images/Image2.jpg');
+    background-image: url('images/Image2.jpg');
 }
 
 .slide3 {
-    background-image: url('../Images/Image3.jpg');
+    background-image: url('../images/Image3.jpg');
 }
 
 .slider-content {
